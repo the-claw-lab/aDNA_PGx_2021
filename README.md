@@ -12,4 +12,4 @@
 
 `python3 stargazer.py "genotype" -o "output_preffix" -d wgs -t "supported_gene" --vcf "input.vcf" -c "control_gene --gdf "input_rd.gdf"`
 
-**Stargazer Output processing:** [r_script](www.xyz.com)
+**Stargazer Output processing:** [2021_Archaic_PGx_SGE_Output_Analysis.R](https://github.com/the-claw-lab/aDNA_PGx_2021/blob/main/2021_Archaic_PGx_SGE_Output_Analysis.R)
