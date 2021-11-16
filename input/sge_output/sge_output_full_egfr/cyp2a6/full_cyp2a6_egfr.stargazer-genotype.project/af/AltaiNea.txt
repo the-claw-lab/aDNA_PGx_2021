@@ -1,0 +1,1 @@
+pos	hap1_al	hap2_al	hap1_af	hap2_af

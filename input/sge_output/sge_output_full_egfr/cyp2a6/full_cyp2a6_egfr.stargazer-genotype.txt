@@ -1,0 +1,5 @@
+name	status	hap1_main	hap2_main	hap1_cand	hap2_cand	hap1_score	hap2_score	dip_score	phenotype	dip_sv	hap1_sv	hap2_sv	ssr	dip_cand	hap1_main_core	hap2_main_core	hap1_main_tag	hap2_main_tag	hap1_af_mean_gene	hap2_af_mean_gene	hap1_af_mean_main	hap2_af_mean_main
+AltaiNea	g	*12	*12	*12	*12	0.5	0.5	1.0	slow_metabolizer	gc_e1e2,gc_e1e2	gc_e1e2	gc_e1e2	7786.4	*12	.	.	.	.	.	.	.	.
+ChagyrskayaPhalanx	g	*1	*12	*1	*12	1.0	0.5	1.5	slow_metabolizer	no_sv,gc_e1e2	no_sv	gc_e1e2	13496.7	*12	.	.	.	.	0.60	0.40	.	.
+DNK02	g	*1	*9	*1	*9	1.0	0.5	1.5	slow_metabolizer	no_sv,no_sv	no_sv	no_sv	7342.6	*9	.	<41356379:A>C:12/16:0.75:upstream_gene_variant:moderate_impact:TATA_box>	.	.	0.53	0.47	.	0.75
+Vi33.19	g	*12	*12	*12	*12	0.5	0.5	1.0	slow_metabolizer	gc_e1e2,gc_e1e2	gc_e1e2	gc_e1e2	14184.7	*12	.	.	.	.	0.48	0.52	.	.
