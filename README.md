@@ -16,7 +16,7 @@
 
 **Stargazer**
 
-Output Processing:[2021_Archaic_PGx_SGE_Output_Analysis.R](https://github.com/the-claw-lab/aDNA_PGx_2021/blob/main/2021_Archaic_PGx_SGE_Output_Analysis.R)
+Output Processing: [2021_Archaic_PGx_SGE_Output_Analysis.R]()
 
 **SNV Analysis**
 
@@ -27,3 +27,7 @@ Select gene positions (start-stop gene loci + 2000bp upstream for the promoter) 
 `bcftools view -i '%QUAL>=40' "output.vcf" > "output_filtered40.vcf"`
 
 SNVs are annotated with [Annovar](), [CADD](), [SIFT](), and [PolyPhen3]()
+
+SNV Analysis Script: [2021_Archaic_PGx_variantSNV_Analysis.R]()
+
+**Potentially Damaging Variants**
