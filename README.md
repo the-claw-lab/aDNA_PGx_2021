@@ -34,6 +34,8 @@ SNVs are annotated with [Annovar](), [CADD](), [SIFT](), and [PolyPhen3]()
 
 SNV Analysis Script: [2021_Archaic_PGx_variantSNV_Analysis.R](https://github.com/the-claw-lab/aDNA_PGx_2021/blob/main/2021_Archaic_PGx_variantSNV_Analysis.R)
 
+Example output found [here] (https://github.com/the-claw-lab/aDNA_PGx_2021/tree/main/output/2021_Archaic_PGx_variantSNV_Analysis_EXAMPLE_OUTPUT).
+
 **Potentially Damaging Variants**
 
 Potentially Damaging Variant Script: [2021_Archaic_PGx_potentiallyDamagingSNVs_Analysis.R]()
