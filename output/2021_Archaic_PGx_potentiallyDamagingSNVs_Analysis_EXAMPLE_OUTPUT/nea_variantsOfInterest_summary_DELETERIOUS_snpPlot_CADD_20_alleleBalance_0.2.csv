@@ -1,0 +1,4 @@
+"Gene","Position","Variant ID","Location","Consequence","Ref","Alt","Altai Neanderthal","Chagyrskaya 8 Neanderthal","Vindija 33.19 Neanderthal","Denisovan","CADD Score (Phred Normalized)","SIFT Prediction","Polyphen2 Prediction","Star Allele"
+"CYP1A2","15:75044494","rs749598098","EXONIC","Nonsynonymous","C","T","C/C:33,0:33","C/C:11,0:11","C/C:8,0:9","C/T:4,2:12",23.5,"D (0.045)","B (0.031)","."
+"CYP1A2","15:75044518","rs776078971","EXONIC","Nonsynonymous","C","T","C/C:31,0:31","C/C:10,0:10","C/C:12,0:12","C/T:5,2:11",25.1,"D (0.002)","D (0.987)","."
+"CYP1A2","15:75047140","rs2063330377","EXONIC","Stopgain","G","A","G/G:37,0:37","G/G:16,0:22","G/G:12,0:14","G/A:6,2:20",38,".",".","."

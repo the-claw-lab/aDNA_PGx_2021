@@ -1,0 +1,41 @@
+"Sample","Gene","Function","Count"
+"Denisovan","CYP1A2","TOTAL",8
+"Denisovan","CYP1A2","EXONIC",1
+"Denisovan","CYP1A2","INTRONIC",3
+"Denisovan","CYP1A2","PROMOTER",1
+"Denisovan","CYP1A2","UTR",3
+"Altai Neanderthal","CYP1A2","TOTAL",14
+"Altai Neanderthal","CYP1A2","EXONIC",1
+"Altai Neanderthal","CYP1A2","INTRONIC",6
+"Altai Neanderthal","CYP1A2","PROMOTER",4
+"Altai Neanderthal","CYP1A2","UTR",3
+"Chagyrskaya 8 Neanderthal","CYP1A2","TOTAL",20
+"Chagyrskaya 8 Neanderthal","CYP1A2","EXONIC",4
+"Chagyrskaya 8 Neanderthal","CYP1A2","INTRONIC",6
+"Chagyrskaya 8 Neanderthal","CYP1A2","PROMOTER",8
+"Chagyrskaya 8 Neanderthal","CYP1A2","UTR",2
+"Vindija 33.19 Neanderthal","CYP1A2","TOTAL",31
+"Vindija 33.19 Neanderthal","CYP1A2","EXONIC",8
+"Vindija 33.19 Neanderthal","CYP1A2","INTRONIC",13
+"Vindija 33.19 Neanderthal","CYP1A2","PROMOTER",6
+"Vindija 33.19 Neanderthal","CYP1A2","UTR",4
+"Denisovan","CYP2A6","TOTAL",36
+"Denisovan","CYP2A6","EXONIC",4
+"Denisovan","CYP2A6","INTRONIC",14
+"Denisovan","CYP2A6","PROMOTER",17
+"Denisovan","CYP2A6","UTR",1
+"Altai Neanderthal","CYP2A6","TOTAL",21
+"Altai Neanderthal","CYP2A6","EXONIC",4
+"Altai Neanderthal","CYP2A6","INTRONIC",12
+"Altai Neanderthal","CYP2A6","PROMOTER",4
+"Altai Neanderthal","CYP2A6","UTR",1
+"Chagyrskaya 8 Neanderthal","CYP2A6","TOTAL",28
+"Chagyrskaya 8 Neanderthal","CYP2A6","EXONIC",6
+"Chagyrskaya 8 Neanderthal","CYP2A6","INTRONIC",13
+"Chagyrskaya 8 Neanderthal","CYP2A6","PROMOTER",7
+"Chagyrskaya 8 Neanderthal","CYP2A6","UTR",2
+"Vindija 33.19 Neanderthal","CYP2A6","TOTAL",15
+"Vindija 33.19 Neanderthal","CYP2A6","EXONIC",5
+"Vindija 33.19 Neanderthal","CYP2A6","INTRONIC",6
+"Vindija 33.19 Neanderthal","CYP2A6","PROMOTER",3
+"Vindija 33.19 Neanderthal","CYP2A6","UTR",1

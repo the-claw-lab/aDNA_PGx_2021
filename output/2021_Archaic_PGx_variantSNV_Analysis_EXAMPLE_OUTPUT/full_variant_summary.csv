@@ -1,0 +1,30 @@
+"Desc","Count","Prcent"
+"Total",115,"100"
+"Exonic_Total",21,"18.2608695652174"
+"Intronic_Total",49,"42.6086956521739"
+"Promoter_Total",35,"30.4347826086957"
+"Utr_Total",10,"8.69565217391304"
+"CYP1A2_Total",46,"40"
+"CYP1A2_Exonic",12,"26.0869565217391"
+"CYP1A2_Intronic",16,"34.7826086956522"
+"CYP1A2_Promoter",10,"21.7391304347826"
+"CYP1A2_Utr",8,"17.3913043478261"
+"CYP2A6_Total",69,"60"
+"CYP2A6_Exonic",9,"13.0434782608696"
+"CYP2A6_Intronic",33,"47.8260869565217"
+"CYP2A6_Promoter",25,"36.231884057971"
+"CYP2A6_Utr",2,"2.89855072463768"
+"Altai Neanderthal_Total",35,NA
+"Chagyrskaya 8 Neanderthal_Total",48,NA
+"Denisovan_Total",44,NA
+"Vindija 33.19 Neanderthal_Total",46,NA
+"CYP1A2_MostVars",31,"Vindija 33.19 Neanderthal"
+"CYP1A2_Denisovan",8,NA
+"CYP1A2_Altai Neanderthal",14,NA
+"CYP1A2_Chagyrskaya 8 Neanderthal",20,NA
+"CYP1A2_Vindija 33.19 Neanderthal",31,NA
+"CYP2A6_MostVars",36,"Denisovan"
+"CYP2A6_Denisovan",36,NA
+"CYP2A6_Altai Neanderthal",21,NA
+"CYP2A6_Chagyrskaya 8 Neanderthal",28,NA
+"CYP2A6_Vindija 33.19 Neanderthal",15,NA
