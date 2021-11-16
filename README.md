@@ -20,7 +20,9 @@ Examples for *CYP1A2* and *CYP2A6* can be found in `input/sge_output/`
 
 **Stargazer**
 
-Output Processing: [2021_Archaic_PGx_SGE_Output_Analysis.R]()
+Output Processing: [2021_Archaic_PGx_SGE_Output_Analysis.R](https://github.com/the-claw-lab/aDNA_PGx_2021/blob/main/2021_Archaic_PGx_SGE_Output_Analysis.R)
+
+Example output found [here]()
 
 **SNV Analysis**
 
