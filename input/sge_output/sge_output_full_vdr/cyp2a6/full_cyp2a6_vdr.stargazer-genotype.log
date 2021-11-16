@@ -1,0 +1,127 @@
+Stargazer
+Author: Seung-been "Steven" Lee
+Enter "python3 stargazer.py --help" to view command line arguments
+For more details, please visit https://stargazer.gs.washington.edu/stargazerweb/index.html
+
+Stargazer tool used: genotype
+Date: 20210308
+Start time: 11:58:47
+
+Command line: python3 /Users/wroblewt/Software/Stargazer/stargazer.py genotype -o full_cyp2a6_vdr -d wgs -t cyp2a6 --vcf /Users/wroblewt/The University of Colorado Denver/Claw Laboratory - Documents/Projects/TadeuszWroblewski/aDNA_Project/neanderthalAnalysis/data/genotype/full_v2/neanderthal_full_cyp2a6_out.vcf -c vdr --gdf /Users/wroblewt/The University of Colorado Denver/Claw Laboratory - Documents/Projects/TadeuszWroblewski/aDNA_Project/neanderthalAnalysis/data/depthOfCoverage/full_v2/neanderthal_vdr_cyp2a6_out.gdf
+
++----------------------------------------------------------------------
+
+Step 1/9: Determining genotype mode...
+
+Status: Completed
+
+Target gene: CYP2A6
+Target paralog: CYP2A7
+Target region: chr19:41339442-41396352
+
+Control type: Control gene
+Control gene: VDR
+Control region: chr12:48232319-48301814
+
+Input data source: Whole genome sequencing
+VCF-only mode is on: False
+Imputation mode is on: False
+
+Enzyme function: Metabolism
+PharmVar member: Yes
+DPSV member: Yes
+
++----------------------------------------------------------------------
+
+Step 2/9: Assessing input VCF...
+
+Status: Completed
+
+Samples total: 4
+Markers total: 500
+
+Markers with allelic depth: 500
+
+Markers unphased: 394
+Markers phased: 0
+Markers partially phased: 106
+
++----------------------------------------------------------------------
+
+Step 3/9: Processing input VCF...
+
+Status: Completed
+
+Markers with allelic imbalance: 128
+Markers with high missingness: 18
+Markers with invalid allele: 0
+
++----------------------------------------------------------------------
+
+Step 4/14: Conforming input VCF...
+
+Status: Completed
+
+Markers total: 500
+Markers filtered: 18
+Markers remaining: 482
+
+Markers phasable: 197
+Markers ready: 191
+Markers conformed: 6
+
+Markers unphasable: 285
+Markers absent in reference VCF: 276
+Markers with different REF allele: 3
+Markers with no overlapping ALT alleles: 6
+
++----------------------------------------------------------------------
+
+Step 5/9: Statistically phasing input VCF...
+
+Status: Completed
+
+Markers attempted: 197
+Markers phased: 197
+Markers omitted: 0
+
++----------------------------------------------------------------------
+
+Step 6/9: Annotating input VCF...
+
+Status: Completed
+
+Markers with Stargazer membership: 19
+
+Variants with low impact: 17
+Variants with moderate impact: 2
+Variants with high impact: 0
+
+Variants reverted to wild type: 2/2
+
++----------------------------------------------------------------------
+
+Step 7/9: Phasing input VCF by haplotype extension...
+
+Status: Completed
+
+Markers attempted: 0
+Markers phased: 0
+Markers omitted: 0
+
++----------------------------------------------------------------------
+
+Step 8/9: Detecting structural variants...
+
+Status: Completed
+
++----------------------------------------------------------------------
+
+Step 9/9: Plotting various profiles...
+
+Status: Completed
+
++----------------------------------------------------------------------
+
+Elapsed time: 0:00:04
+Stargazer finished

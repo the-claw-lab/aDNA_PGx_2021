@@ -1,0 +1,27 @@
+##fileformat=VCFv4.2
+##filedate=20210308
+##source="beagle.25Nov19.28d.jar"
+##INFO=<ID=AF,Number=A,Type=Float,Description="Estimated ALT Allele Frequencies">
+##INFO=<ID=DR2,Number=1,Type=Float,Description="Dosage R-Squared: estimated squared correlation between estimated REF dose [P(RA) + 2*P(RR)] and true REF dose">
+##INFO=<ID=IMP,Number=0,Type=Flag,Description="Imputed marker">
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">
+##FORMAT=<ID=DS,Number=A,Type=Float,Description="estimated ALT dose [P(RA) + 2*P(AA)]">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	AltaiNea	ChagyrskayaPhalanx	DNK02	Vi33.19
+15	75038482	.	G	T	.	PASS	.	GT	1|1	1|1	0|0	1|1
+15	75039233	.	T	C	.	PASS	.	GT	1|1	1|1	0|0	1|1
+15	75039612	.	AT	A	.	PASS	.	GT	1|1	1|1	0|0	1|1
+15	75040372	.	T	C	.	PASS	.	GT	1|1	1|1	0|0	0|1
+15	75041341	.	T	G	.	PASS	.	GT	1|1	1|1	0|0	1|1
+15	75041902	.	G	A	.	PASS	.	GT	0|0	0|1	0|0	1|0
+15	75041917	.	C	A	.	PASS	.	GT	1|1	1|1	0|1	1|1
+15	75043281	.	C	T	.	PASS	.	GT	0|0	1|0	0|0	0|0
+15	75044238	.	G	A	.	PASS	.	GT	0|0	0|0	0|1	0|0
+15	75044788	.	G	A	.	PASS	.	GT	0|0	1|0	0|0	0|0
+15	75046677	.	G	T	.	PASS	.	GT	1|1	1|1	0|0	1|1
+15	75047426	.	C	T	.	PASS	.	GT	0|0	0|0	0|1	0|0
+15	75047600	.	A	G	.	PASS	.	GT	1|1	1|1	0|0	1|1
+15	75047789	.	C	CT	.	PASS	.	GT	0|1	1|0	0|0	0|1
+15	75049943	.	G	A	.	PASS	.	GT	0|0	0|0	0|1	0|0
+15	75050636	.	C	T	.	PASS	.	GT	1|0	0|1	0|0	0|0
+15	75050854	.	T	C	.	PASS	.	GT	1|1	1|1	0|1	1|1
+15	75051628	.	G	A	.	PASS	.	GT	0|0	1|0	0|0	0|0

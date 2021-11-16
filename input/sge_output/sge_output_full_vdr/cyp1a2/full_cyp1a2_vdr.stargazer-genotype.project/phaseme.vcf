@@ -1,0 +1,33 @@
+##fileformat=VCFv4.2
+##fileDate=20210308
+##source=Stargazer
+##reference=hg19
+##INFO=<ID=FE,Number=A,Type=String,Description="Functional Effect">
+##INFO=<ID=PS,Number=1,Type=String,Description="Phasing Status (A, in preparation; B1, ready for phasing as is; B2, ready for phasing after conformation to reference VCF; C1, excluded from phasing because marker is absent in reference VCF; C2, excluded from phasing because marker has different REF allele; C3, excluded from phasing because marker has no overlapping ALT alleles; D1, statistically phased; D2, manually phased with certainty; D3, manually phased without certainty; D4, already phased; D5, manually phased by extension; E, omitted during statistical phasing)">
+##INFO=<ID=RV,Number=A,Type=String,Description="Reverting Variation">
+##INFO=<ID=SO,Number=A,Type=String,Description="=Sequence Ontology">
+##INFO=<ID=VI,Number=A,Type=String,Description="Variant Impact">
+##FILTER=<ID=IA,Description="Invalid Allele">
+##FILTER=<ID=s50,Description="Less than 50% of samples have data">
+##FORMAT=<ID=AD,Number=R,Type=Integer,Description="Allelic depths for the ref and alt alleles in the order listed">
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">
+##FORMAT=<ID=HE,Number=4,Type=Integer,Description="Matching scores computed by the phase-by-extension algorithm">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	AltaiNea	ChagyrskayaPhalanx	DNK02	Vi33.19
+15	75038482	.	G	T	.	PASS	PS=B1	GT:AD	1/1:1,90	1/1:0,28	0/0:28,0	1/1:0,37
+15	75039233	.	T	C	.	PASS	PS=B1	GT:AD	1/1:0,40	1/1:1,16	0/0:24,0	1/1:0,17
+15	75039612	.	AT	A	.	PASS	PS=B1	GT:AD	1/1:0,37	1/1:0,12	0/0:19,0	1/1:0,18
+15	75040372	.	T	C	.	PASS	PS=B1	GT:AD	1/1:2,45	1/1:0,28	0/0:31,0	0/1:2,14
+15	75041341	.	T	G	.	PASS	PS=B1	GT:AD	1/1:1,38	1/1:0,10	0/0:26,0	1/1:0,10
+15	75041902	.	G	A	.	PASS	PS=B1	GT:AD	0/0:42,0	0/1:16,2	0/0:33,0	0/1:18,4
+15	75041917	.	C	A	.	PASS	PS=B1	GT:AD	1/1:1,35	1/1:0,20	0/1:20,19	1/1:0,19
+15	75043281	.	C	T	.	PASS	PS=B1	GT:AD	0/0:33,0	0/1:17,3	0/0:22,0	0/0:25,0
+15	75044238	.	G	A	.	PASS	PS=B1	GT:AD	0/0:45,0	0/0:16,0	0/1:13,15	0/0:22,0
+15	75044788	.	G	A	.	PASS	PS=B1	GT:AD	0/0:54,0	0/1:9,2	0/0:20,0	0/0:12,0
+15	75046677	.	G	T	.	PASS	PS=B1	GT:AD	1/1:0,33	1/1:0,17	0/0:18,0	1/1:0,25
+15	75047426	.	C	T	.	PASS	PS=B1	GT:AD	0/0:39,0	0/0:10,0	0/1:4,13	0/0:24,0
+15	75047600	.	A	G	.	PASS	PS=B1	GT:AD	1/1:0,47	1/1:0,16	0/0:23,0	1/1:1,27
+15	75047789	.	C	CT	.	PASS	PS=B1	GT:AD	0/1:9,22	0/1:4,3	0/0:14,0	0/1:1,10
+15	75049943	.	G	A	.	PASS	PS=B1	GT:AD	0/0:27,0	0/0:18,0	0/1:11,9	0/0:8,0
+15	75050636	.	C	T	.	PASS	PS=B1	GT:AD	0/1:20,11	0/1:7,5	0/0:22,0	0/0:4,0
+15	75050854	.	T	C	.	PASS	PS=B1	GT:AD	1/1:0,48	1/1:0,13	0/1:7,14	1/1:0,16
+15	75051628	.	G	A	.	PASS	PS=B1	GT:AD	0/0:38,0	0/1:14,3	0/0:22,0	0/0:41,0
