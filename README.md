@@ -1,5 +1,3 @@
-# Pharmacogenetic variation in Neanderthals and Denisovans and the implications for evolutionary medicine
-
 ## Genotyping pipeline
 
 **Samples were genotyped and read depth was extracted using using [pypgx - version 0.1.37](https://github.com/sbslee/pypgx)**
