@@ -30,7 +30,7 @@ Select gene positions (start-stop gene loci + 2000bp upstream for the promoter) 
 
 `bcftools view -i '%QUAL>=40' "output.vcf" > "output_filtered40.vcf"`
 
-SNVs are annotated with [Annovar](), [CADD](), [SIFT](), and [PolyPhen3]()
+SNVs are annotated with [Annovar](https://annovar.openbioinformatics.org/en/latest/), [CADD](https://cadd.gs.washington.edu), [SIFT](https://sift.bii.a-star.edu.sg), and [PolyPhen2](http://genetics.bwh.harvard.edu/pph2/)
 
 SNV Analysis Script: [2021_Archaic_PGx_variantSNV_Analysis.R](https://github.com/the-claw-lab/aDNA_PGx_2021/blob/main/2021_Archaic_PGx_variantSNV_Analysis.R)
 
@@ -40,4 +40,4 @@ Example output found [here](https://github.com/the-claw-lab/aDNA_PGx_2021/tree/m
 
 Potentially Damaging Variant Script: [2021_Archaic_PGx_potentiallyDamagingSNVs_Analysis.R](https://github.com/the-claw-lab/aDNA_PGx_2021/blob/main/2021_Archaic_PGx_potentiallyDamagingSNVs_Analysis.R)
 
-Example output found [here]().
+Example output found [here](https://github.com/the-claw-lab/aDNA_PGx_2021/tree/main/output/2021_Archaic_PGx_potentiallyDamagingSNVs_Analysis_EXAMPLE_OUTPUT).
