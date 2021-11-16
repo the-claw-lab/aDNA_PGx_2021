@@ -39,3 +39,5 @@ Example output found [here](https://github.com/the-claw-lab/aDNA_PGx_2021/tree/m
 **Potentially Damaging Variants**
 
 Potentially Damaging Variant Script: [2021_Archaic_PGx_potentiallyDamagingSNVs_Analysis.R]()
+
+Example output found [here]().
