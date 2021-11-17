@@ -1,3 +1,12 @@
+This pipeline was developed to identify pharmacogenetic variation in publicly avalailable archaic genomes. Contact Teddy Wroblewski (tadeusz.wroblewski@cuanschutz.edu)
+
+Required Software:
+
+- pygpgx
+- Stargazer
+- bcftool
+- RStudio
+
 ## Genotyping pipeline
 
 **Samples were genotyped and read depth was extracted using using [pypgx - version 0.1.37](https://github.com/sbslee/pypgx)**
